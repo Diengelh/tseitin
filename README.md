@@ -4,7 +4,6 @@
 ![Dune](https://img.shields.io/badge/dune-3.0-blue.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
 ![Status](https://img.shields.io/badge/status-completed-brightgreen.svg)
-![GitHub last commit](https://img.shields.io/github/last-commit/Diengelh/Transformation-de-Tseitin)
 ![GitHub repo size](https://img.shields.io/github/repo-size/Diengelh/Transformation-de-Tseitin)
 
 ## Description
