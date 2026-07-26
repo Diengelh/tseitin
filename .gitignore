@@ -1,0 +1,29 @@
+# Fichiers compiles OCaml
+*.cmo
+*.cmi
+*.cmx
+*.o
+*.out
+*.native
+*.byte
+*.opt
+*.annot
+*.merlin
+*.cmxs
+*.cmxa
+*.a
+*.ml-gen
+
+# Dossiers de compilation
+_build/
+_build/
+
+# Fichiers temporaires
+*~
+*.swp
+*.log
+*.tmp
+*.bak
+
+# Executables
+*.exe
